@@ -10,9 +10,9 @@ Doubly Linked List Representation in C
 A doubly linked list is represented in C as the pointer to the head (i.e. first node) in the list. 
 Each node in a doubly linked list contains three components:
 
-1. Data: data is the actual information stored in the node.
-2. Next: next is a pointer that links to the next node in the list.
-3. Prev: previous is a pointer that links to the previous node in the list.
+* Data: data is the actual information stored in the node.
+* Next: next is a pointer that links to the next node in the list.
+* Prev: previous is a pointer that links to the previous node in the list.
 
 Basic Operations on C Doubly Linked List
 
